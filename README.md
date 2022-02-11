@@ -21,5 +21,9 @@
 </table>
 <hr style="border:2px solid red">
 <br>
-<h1><em>Using Docker ?</em></h1>
-<h2>use: <i>docker pull johnny711dock/google-clone@latest</i></h2>
+<h1>Using Docker? Just -></h1>
+<ol>
+  <li>Make Sure Docker latest version is Installed</li>
+  <li>docker pull johnny711dock/google-clone</li>
+  <li>docker run -p 3000:3000 johnny711dock/google-clone </li>
+</ol>
