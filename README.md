@@ -19,3 +19,7 @@
     <th> https://google-clone-2.herokuapp.com/search </th>
   </tr>
 </table>
+<hr style="border:2px solid red">
+<br>
+<h1><em>Using Docker ?</em></h1>
+<h2>use: <i>docker pull johnny711dock/google-clone@latest</i></h2>
